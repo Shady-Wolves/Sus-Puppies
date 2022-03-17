@@ -1,5 +1,4 @@
-# Sus Puppies
-
+![Werewolf - The Social Deduction Game](public/images/werewolf-banner.png)
 # Introduction
 
 Sus Puppies is an online multiplayer game based on the classic social deduction game *Werewolf*. The application supports up to 35 players to log in and participate live, with secret chats based on your role, all synchronized live. The game’s internal logic serves as the game narrator, so you and your friends can play, as one of the four main roles: Werewolf, Healer, Seer, or Villager.
